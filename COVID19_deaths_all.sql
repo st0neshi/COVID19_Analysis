@@ -1,0 +1,8 @@
+SELECT *
+FROM COVID19..COVID_Deaths
+WHERE continent is not null
+ORDER BY 3,4
+
+SELECT *
+FROM COVID19..COVID_Vaccines
+ORDER BY 3,4
