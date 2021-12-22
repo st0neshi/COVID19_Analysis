@@ -128,3 +128,4 @@ WHERE dea.continent IS NOT NULL
 --ORDER BY 2,3
 SELECT *
 FROM PercentPopulationVaccinated
+ORDER BY 2
